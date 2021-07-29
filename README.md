@@ -1,2 +1,2 @@
 # hello-world
-My first Test repository on Test GitHub
+My first Test repository on GitHub
